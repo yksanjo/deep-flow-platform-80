@@ -1,5 +1,12 @@
 # deep-flow-platform-80
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/deep-flow-platform-80/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/deep-flow-platform-80/actions)
+![License](https://img.shields.io/github/license/yksanjo/deep-flow-platform-80)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/deep-flow-platform-80)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/deep-flow-platform-80)
+
 ## Detailed Description
 
 deep-flow-platform-80 is maintained as an industry-grade software project with production-ready engineering practices.  
